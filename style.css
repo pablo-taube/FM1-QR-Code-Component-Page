@@ -18,6 +18,7 @@ body {
 }
 
 .card {
+    height: 62vh;
     width: 25vw;   
     background-color: white;
     border-radius: 15px;
