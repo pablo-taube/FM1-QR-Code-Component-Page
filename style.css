@@ -18,10 +18,7 @@ body {
 }
 
 .card {
-    height: 62vh;
     width: 25vw;   
-    /*height: 65vh;
-    width: 18vw;*/
     background-color: white;
     border-radius: 15px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -65,7 +62,7 @@ body {
 
 @media screen and (max-width:480px) {
     .card {
-        height: auto;
+        height: 80%;
         width: 80%;  
     }
 }
