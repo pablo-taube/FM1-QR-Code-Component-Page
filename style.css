@@ -18,12 +18,14 @@ body {
 }
 
 .card {
-        height: 65vh;
-        width: 18vw;
-        background-color: white;
-        border-radius: 15px;
-        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-        font-family: "Outfit", sans-serif;
+    height: 62vh;
+    width: 25vw;   
+    /*height: 65vh;
+    width: 18vw;*/
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-family: "Outfit", sans-serif;
 
 }      
 
